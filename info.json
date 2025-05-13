@@ -1,0 +1,18 @@
+{
+  "Reto-Suma": {
+    "nombre": "Reto de Sumas",
+    "descripcion": "Un juego educativo para practicar sumas básicas con números aleatorios.",
+    "instrucciones": [
+      "Lee la pregunta matemática que aparece en pantalla.",
+      "Escribe tu respuesta en el campo de entrada.",
+      "Haz clic en 'Verificar' para comprobar tu respuesta.",
+      "Suma puntos por cada respuesta correcta."
+    ],
+    "temas": [
+      "Aritmética básica",
+      "Resolución de problemas",
+      "Pensamiento lógico"
+    ],
+    "url": "https://game.1001problemas.com/Reto-Suma/"
+  }
+}
